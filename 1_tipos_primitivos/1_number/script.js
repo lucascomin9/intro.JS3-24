@@ -15,3 +15,5 @@
     const soma = meuNumero + idade;
 
     console.log(soma)
+
+    console.log('Node funcionou');
